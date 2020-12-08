@@ -22,14 +22,14 @@ Self study completed tasks
 - [ ] 13 - Website Performance Optimization
 - [ ] 14 - Friends App - real project!
 
-##0 - Git and GitHub
+## 0 - Git and GitHub
 ![](0_git_basics/udacity-complete.png)
 
 ![](0_git_basics/learngitbranching-1.png)
 
 ![](0_git_basics/learngitbranching-2.png)
 
-####Impressions about learned materials:
+**Impressions about learned materials:**
 
 It was interesting to know about the option --amend for git commit, to alter the last commit and git log options --oneline, --decorate, --stat, --graph.
 
