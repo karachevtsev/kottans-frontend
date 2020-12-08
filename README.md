@@ -42,7 +42,7 @@ It was interesting to know about the option --amend for git commit, to alter the
 
 ![](task_linux_cli/quiz-4.png)
 
-At present time use Debian (WSL2 for Windows) for my web development, so i use a lot of this commands. This lesson gave me good knowledges about: permissions for user and redirect output. One of the most used command `grep` to find patterns in data.
+At present time i use Debian (WSL2 for Windows) for my web development, so i use a lot of this commands. This lesson gave me good knowledges about: permissions for user and redirect output. One of the most used command `grep` to find patterns in data.
 
 ## Git Collaboration
 ![](task_git_collaboration/udacity-complete.png)
