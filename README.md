@@ -4,7 +4,7 @@ Self study completed tasks
 ## General
 - [x] 0 - Git and GitHub - `done` 
 - [x] 1 - Linux CLI and Networking - `done` 
-- [ ] 2 - Git for Team Collaboration
+- [X] 2 - Git for Team Collaboration - `done`
 
 ## Front-End Basics
 - [ ] 3 - Intro to HTML & CSS
@@ -23,23 +23,32 @@ Self study completed tasks
 - [ ] 14 - Friends App - real project!
 
 ## 0 - Git and GitHub
-![](0-git_basics/udacity-complete.png)
+![](git_basics/udacity-complete.png)
 
-![](0-git_basics/learngitbranching-1.png)
+![](git_basics/learngitbranching-1.png)
 
-![](0-git_basics/learngitbranching-2.png)
+![](git_basics/learngitbranching-2.png)
 
 **Impressions about learned materials:**
 
 It was interesting to know about the option --amend for git commit, to alter the last commit and git log options --oneline, --decorate, --stat, --graph for convenient viewing the commit history.
 
 ## Linux CLI, and HTTP
-![](1-task_linux_cli/quiz-1.png)
+![](task_linux_cli/quiz-1.png)
 
-![](1-task_linux_cli/quiz-2.png)
+![](task_linux_cli/quiz-2.png)
 
-![](1-task_linux_cli/quiz-3.png)
+![](task_linux_cli/quiz-3.png)
 
-![](1-task_linux_cli/quiz-4.png)
+![](task_linux_cli/quiz-4.png)
 
 At present time use Debian (WSL2 for Windows) for my web development, so i use a lot of this commands. This lesson gave me good knowledges about: permissions for user and redirect output. One of the most used command `grep` to find patterns in data.
+
+## Git Collaboration
+![](task_git_collaboration/udacity-complete.png)
+
+![](git_basics/learngitbranching-1.png)
+
+![](git_basics/learngitbranching-2.png)
+
+It was interesting to know about the git rebase interactive - very powerful command. Understood how to collaborating with other developers and contribute to a public project.
