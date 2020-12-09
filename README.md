@@ -7,7 +7,7 @@ Self study completed tasks
 - [X] 2 - Git for Team Collaboration - `done`
 
 ## Front-End Basics
-- [ ] 3 - Intro to HTML & CSS
+- [X] 3 - Intro to HTML & CSS - `done`
 - [ ] 4 - Responsive Web Design
 - [ ] 5 - HTML & CSS Practice
 - [ ] 6 - JavaScript Basics
@@ -52,3 +52,12 @@ At present time i use Debian (WSL2 for Windows) for my web development, so i use
 ![](git_basics/learngitbranching-2.png)
 
 It was interesting to know about the git rebase interactive - very powerful command. Understood how to collaborating with other developers and contribute to a public project.
+
+## Intro to HTML and CSS
+![](task_html_css_intro/udacity-complete.png)
+
+![](task_html_css_intro/codecademy-1.png)
+
+![](task_html_css_intro/codecademy-2.png)
+
+It was interesting to practice with grid to laying-out and positioning elements on web pages.
