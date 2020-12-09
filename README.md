@@ -23,11 +23,11 @@ Self study completed tasks
 - [ ] 14 - Friends App - real project!
 
 ## 0 - Git and GitHub
-![](git_basics/udacity-complete.png)
+![](task_git_basics/udacity-complete.png)
 
-![](git_basics/learngitbranching-1.png)
+![](task_git_basics/learngitbranching-1.png)
 
-![](git_basics/learngitbranching-2.png)
+![](task_git_basics/learngitbranching-2.png)
 
 **Impressions about learned materials:**
 
@@ -47,9 +47,9 @@ At present time i use Debian (WSL2 for Windows) for my web development, so i use
 ## Git Collaboration
 ![](task_git_collaboration/udacity-complete.png)
 
-![](git_basics/learngitbranching-1.png)
+![](task_git_basics/learngitbranching-1.png)
 
-![](git_basics/learngitbranching-2.png)
+![](task_git_basics/learngitbranching-2.png)
 
 It was interesting to know about the git rebase interactive - very powerful command. Understood how to collaborating with other developers and contribute to a public project.
 
