@@ -8,7 +8,7 @@ Self study completed tasks
 
 ## Front-End Basics
 - [X] 3 - Intro to HTML & CSS - `done`
-- [ ] 4 - Responsive Web Design
+- [X] 4 - Responsive Web Design - `done`
 - [ ] 5 - HTML & CSS Practice
 - [ ] 6 - JavaScript Basics
 - [ ] 7 - Document Object Model - practice
@@ -42,6 +42,8 @@ It was interesting to know about the option --amend for git commit, to alter the
 
 ![](task_linux_cli/quiz-4.png)
 
+**Impressions about learned materials:**
+
 At present time i use Debian (WSL2 for Windows) for my web development, so i use a lot of this commands. This lesson gave me good knowledges about: permissions for user and redirect output. One of the most used command `grep` to find patterns in data.
 
 ## Git Collaboration
@@ -50,6 +52,8 @@ At present time i use Debian (WSL2 for Windows) for my web development, so i use
 ![](task_git_basics/learngitbranching-1.png)
 
 ![](task_git_basics/learngitbranching-2.png)
+
+**Impressions about learned materials:**
 
 It was interesting to know about the git rebase interactive - very powerful command. Understood how to collaborating with other developers and contribute to a public project.
 
@@ -60,4 +64,13 @@ It was interesting to know about the git rebase interactive - very powerful comm
 
 ![](task_html_css_intro/codecademy-2.png)
 
+**Impressions about learned materials:**
+
 It was interesting to practice with grid to laying-out and positioning elements on web pages.
+
+## Responsive Web Design
+![](task_responsive_web_design/udacity-complete.png)
+
+**Impressions about learned materials:**
+
+It was interesting to hear how grouped common responsive patterns. I am surprised about using devtools on mobile device, i also checked this on my phone. Very useful information about responsive tables (with data attr and before pseudo element technique).
