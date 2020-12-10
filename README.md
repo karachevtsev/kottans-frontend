@@ -22,7 +22,7 @@ Self study completed tasks
 - [ ] 13 - Website Performance Optimization
 - [ ] 14 - Friends App - real project!
 
-## 0 - Git and GitHub
+## Git and GitHub
 ![](task_git_basics/udacity-complete.png)
 
 ![](task_git_basics/learngitbranching-1.png)
