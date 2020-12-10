@@ -9,7 +9,7 @@ Self study completed tasks
 ## Front-End Basics
 - [X] 3 - Intro to HTML & CSS - `done`
 - [X] 4 - Responsive Web Design - `done`
-- [ ] 5 - HTML & CSS Practice
+- [X] 5 - HTML & CSS Practice - `done`
 - [ ] 6 - JavaScript Basics
 - [ ] 7 - Document Object Model - practice
 
@@ -76,3 +76,9 @@ It was interesting to practice with grid to laying-out and positioning elements 
 **Impressions about learned materials:**
 
 It was interesting to hear how grouped common responsive patterns. I am surprised about using devtools on mobile device, i also checked this on my phone. Very useful information about responsive tables (with data attr and before pseudo element technique).
+
+## HTML & CSS Practice (HTML-CSS-Popup)
+
+[Demo](https://karachevtsev.github.io/html-css-popup/)
+
+[Code base](https://github.com/karachevtsev/html-css-popup)
