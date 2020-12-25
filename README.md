@@ -82,3 +82,11 @@ It was interesting to hear how grouped common responsive patterns. I am surprise
 [Demo](https://karachevtsev.github.io/html-css-popup/)
 
 [Code base](https://github.com/karachevtsev/html-css-popup)
+
+**Impressions about learned materials:**
+It was interesting to use in this case HTML Details Element (details) and customizing css styles for this element. This tag has a good browser compatibility, except for IE :(
+
+## JS Basic
+![](task_js_basics/udacity-complete.png)
+
+**Impressions about learned materials:**
